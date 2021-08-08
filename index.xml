@@ -22,7 +22,11 @@
       <pubDate>Sun, 04 Jul 2021 12:55:56 -0400</pubDate>
       
       <guid>https://allen-3.github.io/ninevolt/about/</guid>
-      <description>A website where I post posts.</description>
+      <description>Aspirations This website is:
+  A place for me to practice designing something and publishing it.
+  A way to share a bit of what I love.
+  A way to help people and help them to save time.
+  Colophon Because this website is open source, all assets — including fonts — are shared publically in a GitHub repository. For this reason, the fonts I use on this website are open source.</description>
     </item>
     
     <item>
@@ -32,15 +36,6 @@
       
       <guid>https://allen-3.github.io/ninevolt/post/test-slug/</guid>
       <description>Hello This is a test post with a slug called test-slug.</description>
-    </item>
-    
-    <item>
-      <title>B</title>
-      <link>https://allen-3.github.io/ninevolt/dir1/b/</link>
-      <pubDate>Sat, 03 Jul 2021 21:15:55 -0400</pubDate>
-      
-      <guid>https://allen-3.github.io/ninevolt/dir1/b/</guid>
-      <description>This is dir1/b.md</description>
     </item>
     
     <item>
