@@ -37,7 +37,27 @@ h3 {
 
 a {
   color: #30363F;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: #30363f33;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 1px;
+}
+a:hover {
+  text-decoration-color: #30363fbd;
+  transition: 100ms;
+}
+
+kbd {
+  font-family: 'Alegreya Sans';
+  font-size: 0.9em;
+  font-weight: 500;
+  padding: .1em .4em .25em;
+  margin: 0 .2em;
+  background-color: #eceef07a;
+  border: solid 1px;
+  border-color: #bfc4cd;
+  border-radius: 3px;
+  box-shadow: 0 -3px 0 #dee1e6 inset;
 }
 
 /* List panes ------------------------------------------------------------ */
@@ -168,6 +188,7 @@ img.logo {
 
 .single-nav-linkback {
   align-self: flex-start;
+  text-decoration: none;
 }
 
 .article-meta {
@@ -195,6 +216,8 @@ hr {
 }
 
 /* Lists ----------------------------------------------------------------- */
+.list-pane a {text-decoration: none;}
+
 .list-pane ul {
   margin: 0;
   padding: 0;
@@ -243,6 +266,16 @@ pre {
 }
 code { background: #f9f9f9; }
 pre code { background: none; }
+
+p > code {
+  font-size: 0.75em;
+  padding: 0.1em 0.3em;
+  margin: 0 0.2em;
+  background-color: #eceef0;
+  border-radius: 2px;
+  color: #213f6d;
+  /* font-size: 70%; */
+}
 
 /* Misc elements --------------------------------------------------------- */
 img, iframe, video { max-width: 100%; }
