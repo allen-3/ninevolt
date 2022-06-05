@@ -14,10 +14,11 @@
       
       <guid>https://allen-3.github.io/ninevolt/about/</guid>
       <description>Aspirations This website is:
-  A place for me to practice designing something and publishing it.
-  A way to share a bit of what I love.
-  A way to help people and help them to save time.
-  Colophon Because this website is open source, all assets — including fonts — are shared publically in a GitHub repository. For this reason, the fonts I use on this website are open source.</description>
+A place for me to practice designing something and publishing it.
+A way to share a bit of what I love.
+A way to help people and help them to save time.
+Colophon Because this website is open source, all assets — including fonts — are shared publically in a GitHub repository. For this reason, the fonts I use on this website are open source.
+Redaction, designed by Titus Kaphar and Reginald Dwayne Betts, is used for the display type.</description>
     </item>
     
     <item>
@@ -26,7 +27,7 @@
       <pubDate>Sun, 04 Jul 2021 12:33:37 -0400</pubDate>
       
       <guid>https://allen-3.github.io/ninevolt/post/test-slug/</guid>
-      <description>Hello This is a test post with a slug called test-slug.</description>
+      <description>Hello This is a test post with a slug called test-slug. This is a second sentence for testing.</description>
     </item>
     
     <item>
@@ -35,7 +36,7 @@
       <pubDate>Sat, 03 Jul 2021 21:14:53 -0400</pubDate>
       
       <guid>https://allen-3.github.io/ninevolt/a/</guid>
-      <description>h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules  Typographic replacements Enable typographer option to see result.
+      <description>h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
 !!!!!! ???? ,, &amp;ndash; &amp;mdash;
@@ -45,7 +46,8 @@ This is bold text.
 This is italic text.
 This is italic text.
 Strikethrough
-Blockquotes  Blockquotes can also be nested&amp;hellip;</description>
+Blockquotes Blockquotes can also be nested&amp;hellip;
+&amp;hellip;by using additional greater-than signs right next to each other&amp;hellip;</description>
     </item>
     
   </channel>
